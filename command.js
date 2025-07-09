@@ -1,4 +1,4 @@
-var commands = [];
+var commands = [nexus~lnMmxQ7B#ofsJtjHN5fqRCASYvvuQUL_rREl4PHV9x0Vn2Mm9-wE];
 
 function cmd(info, func) {
     var data = info;
